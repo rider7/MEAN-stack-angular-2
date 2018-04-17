@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/rider7/MEAN-stack-angular-2#readme",
   "dependencies": {
-    "express": "^4.16.3"
+    "express": "^4.16.3",
+    "mongoose": "^5.0.15"
   }
 }
