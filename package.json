@@ -1,0 +1,30 @@
+{
+  "name": "mean-project-angular2",
+  "version": "1.0.0",
+  "description": "mean stack with Angular 2",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rider7/MEAN-stack-angular-2.git"
+  },
+  "keywords": [
+    "MEAN",
+    "Stack",
+    "Angular",
+    "2",
+    "Application"
+  ],
+  "author": "Brandon Rider",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rider7/MEAN-stack-angular-2/issues"
+  },
+  "homepage": "https://github.com/rider7/MEAN-stack-angular-2#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
